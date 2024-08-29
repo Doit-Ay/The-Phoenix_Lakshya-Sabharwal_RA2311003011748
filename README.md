@@ -6,47 +6,48 @@ Team Members Details:-
 
 
 Team leader Details-
-Name-Lakshya Sabharwal
+
+Name- Lakshya Sabharwal
 
 Reg No.- RA2311003011748
 
-Email-ls1158@srmist.edu.in
+Email- ls1158@srmist.edu.in
 
 
 Team Members 2:
 
-Name-Aditya Yadav 
+Name- Aditya Yadav 
 
-Reg No.-Aditya Yadav
+Reg No.- RA2311003011752
 
-Email-ay2987@srmist.edu.in
+Email- ay2987@srmist.edu.in
 
 
 Team Members 3:
 
-Name-Vidisha Gupta
+Name- Vidisha Gupta
 
-Reg No.-RA231003011767
+Reg No.- RA231003011767
 
-Email-vg0863@srmist.edu.in
+Email- vg0863@srmist.edu.in
 
 
 Team Members 4:
 
-Name-Yug Manekar 
+Name- Yug Manekar 
 
-Reg No.-RA2311003011791
+Reg No.- RA2311003011791
 
-Email-ym
+Email- ym
 
 
 Team Members 5:
 
-Name-Harshvardhan singh Shekhavat
+Name- Harshvardhan singh Shekhavat
 
-Reg No.-RA2311003011797
+Reg No.- RA2311003011797
 
-Email-hs8199@srmist.edu.in
+Email- hs8199@srmist.edu.in
 
 
 
