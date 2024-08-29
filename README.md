@@ -38,7 +38,7 @@ Name- Yug Manekar
 
 Reg No.- RA2311003011791
 
-Email- ym
+Email- ym4128@srmist.edu.in
 
 
 Team Members 5:
