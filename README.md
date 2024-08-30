@@ -61,14 +61,12 @@ Gap in Knowledge Transfer: The younger generation is losing touch with tradition
 Environmental Concerns: Urbanization is reducing green spaces, and awareness of indigenous plants is dwindling.
 
 Introduction to your problem statement and solution-
+
 Prakritishala is a virtual platform that brings medicinal plants to life. 
 The centerpiece is an interactive map of India, allowing users to explore region-specific flora and their medicinal properties.
 The platform also features a "Plant of the Day" spotlight, introducing users to new plants daily, along with a searchable database and intuitive filters to find plants based on specific needs.
 
 Digital Platform: Offers a virtual garden experience with detailed information on medicinal plants, herbs, and trees.
-
 Interactive Learning: Features like quizzes, virtual plant growing activities, and AI chatbots to engage users.
-
 Real Impact: Virtual growth leads to real-life tree planting, contributing to environmental conservation.
-
 Community Building: Forums and discussions allow users to share knowledge, experiences, and solutions.
